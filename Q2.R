@@ -1,1 +1,0 @@
-length(my_list)
