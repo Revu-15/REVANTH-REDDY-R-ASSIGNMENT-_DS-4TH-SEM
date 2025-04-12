@@ -1,1 +1,0 @@
-subset(df, Name == "Deppu")
